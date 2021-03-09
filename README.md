@@ -4,7 +4,7 @@ The program that fingerprints the signals by listening to the song you want to l
 REQUIREMENTS 
 
 * Ubuntu 18.04
-* Python 2.8 (in >3 it won't work properly)
+* Python 2.8 (>3 it won't work properly)
 * MongoDB
 * SQLite
 
